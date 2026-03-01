@@ -50,12 +50,6 @@ const nabil = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C9CBF&ring=7C9CBF&fire=e2e8f0&currStreakLabel=7C9CBF)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
