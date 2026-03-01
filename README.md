@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0000,50:ffff,100:16213e&height=200&section=header&text=Nabil%20Asykaroe&fontSize=58&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=7c9cbf&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:ffff,100:16213e&height=200&section=header&text=Nabil%20Asykaroe&fontSize=58&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=7c9cbf&animation=fadeIn" />
 
 
 </div>
