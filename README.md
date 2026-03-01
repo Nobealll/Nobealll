@@ -6,8 +6,7 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=200&section=header&text=Nabil%20Asykaroe&fontSize=58&fontColor=e2e8f0&fontAlignY=38&desc=FrontEnd%20Developer&descAlignY=58&descSize=20&descColor=7c9cbf&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
