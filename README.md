@@ -23,7 +23,7 @@ const nabil = {
   location: "[Bandung, Indonesia]",
   about:    "[just happy being a frontend dev]",
 
-  currentlyLearning: ["[IoTAi]"],
+  currentlyLearning: ["[IoT], [Ai]"]
 };
 ```
 
@@ -48,7 +48,7 @@ const nabil = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Social
 
 <div align="center">
 
