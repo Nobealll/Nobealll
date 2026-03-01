@@ -65,6 +65,6 @@ const nabil = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nobealll&color=7c9cbf&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:ffff,100:16213e&height=120&section=footer" />
 
 </div>
