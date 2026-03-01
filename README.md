@@ -24,13 +24,10 @@
 const nabil = {
   name:     "Nabil Asykaroe",
   role:     "Full Stack Developer",
-  location: "[Your City, Country]",
-  about:    "[Tulis deskripsi singkat tentang dirimu di sini. 
-             Apa yang kamu passionate? Apa yang sedang kamu 
-             kerjakan? Ceritakan dirimu!]",
+  location: "[Bandung, Indonesia]",
+  about:    "[just happy being a frontend dev]",
 
-  currentlyLearning: ["[Technology 1]", "[Technology 2]"],
-  funFact:  "[Fun fact tentang dirimu 😄]",
+  currentlyLearning: ["[IoT]", "[AI]"],
 };
 ```
 
