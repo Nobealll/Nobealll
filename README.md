@@ -22,8 +22,6 @@ const nabil = {
   role:     "Full Stack Developer",
   location: "[Bandung, Indonesia]",
   about:    "[just happy being a frontend developer. except full stack :v]",
-
-  currentlyLearning: ["[IoT], [Ai]"]
 };
 ```
 
