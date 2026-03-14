@@ -21,7 +21,7 @@ const nabil = {
   name:     "Nabil Asykaroe",
   role:     "Full Stack Developer",
   location: "[Bandung, Indonesia]",
-  about:    "[just happy being a frontend developer. except full stack :v]",
+  about:    "[just happy being a fullstack developer :v]",
 };
 ```
 
